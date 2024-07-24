@@ -11,9 +11,8 @@ Website link:https://facepay-b93d2.web.app/
 
 <!-- Images -->
 ![1](https://user-images.githubusercontent.com/89896247/170789925-ef0790e4-1957-4929-958c-f586a68a4c57.png)
-![2](https://user-images.githubusercontent.com/89896247/170857746-29996904-c9ce-48dc-8508-71af81249171.png)
-![3](https://user-images.githubusercontent.com/89896247/170787852-3d658936-3230-465a-bd2d-6b7769032d7a.jpg)
-![5](https://user-images.githubusercontent.com/89896247/170789944-2179a986-6772-4b25-a257-ea4e9d277d14.png)
+![2](https://user-images.githubusercontent.com/89896247/170787852-3d658936-3230-465a-bd2d-6b7769032d7a.jpg)
+![3](https://user-images.githubusercontent.com/89896247/170789944-2179a986-6772-4b25-a257-ea4e9d277d14.png)
 
 
 ## How to use
