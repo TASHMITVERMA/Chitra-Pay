@@ -1,4 +1,4 @@
-# ChitraPay - The face recognition based transaction system
+# ChitraPay - The face recognition based transaction system 
 
 ## Overview
 
